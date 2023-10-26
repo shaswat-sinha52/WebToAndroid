@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebToAndroid</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="convert">CONVERT</string>
+</resources>
